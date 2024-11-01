@@ -5,4 +5,8 @@ public class Sample {
         System.out.println("IST hi");
         System.out.println("PST changes");
     }
+    public void ArchiChanges()
+    {
+        System.out.println("ArchiPST change");
+    }
 }
