@@ -10,6 +10,7 @@ public class Sample {
         System.out.println("ArchiPST change");
         System.out.println("ArchiPST IST change");
         System.out.println("ArchiPST PST change");
+        System.out.println("Achitect IST changes");
     }
 
 }
