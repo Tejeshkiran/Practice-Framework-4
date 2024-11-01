@@ -8,5 +8,7 @@ public class Sample {
     public void ArchiChanges()
     {
         System.out.println("ArchiPST change");
+        System.out.println("ArchiPST IST change");
     }
+
 }
